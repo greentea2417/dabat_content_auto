@@ -1,0 +1,12 @@
+# 비밀 정보
+.env
+
+# 실행 결과물 (VPS 로컬에만 보관)
+drafts/*.md
+data/history.json
+logs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
